@@ -24,15 +24,14 @@
     "next": "13.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "styled-components": "^5.3.10",
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "@babel/preset-typescript": "^7.21.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
-    "@types/babel-traverse": "^6.25.7",
-    "@types/babel__core": "^7.20.0",
     "@types/jest": "^29.5.1",
+    "@types/styled-components": "^5.1.26",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react-hooks": "^4.6.0",
