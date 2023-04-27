@@ -1,6 +1,5 @@
-import Main from ".";
+import Main from '.'
 import { Meta, StoryObj } from '@storybook/react'
-
 
 export default {
   title: 'Main',
@@ -11,6 +10,6 @@ export default {
   }
 } as Meta
 
-type Story = StoryObj<typeof Main>;
+type Story = StoryObj<typeof Main>
 
-export const Basic: Story  = {}
+export const Basic: Story = {}
